@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bennet",
+        "image": "Yanfei.png",
+        "tier": "S+",
+        "job": "Main DPS",
+        "weapon": "Sword",
+        "element": "Pyro",
+        "constellation": "C5"
+    },
+    {
+        "name": "Venti",
+        "image": "Yanfei.png",
+        "tier": "S+",
+        "job": "Utility",
+        "weapon": "Clymore",
+        "element": "Anemo",
+        "constellation": "C0"
+    }
+]

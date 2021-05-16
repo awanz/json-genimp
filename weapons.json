@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Sword Sky",
+        "images": "Summit_Shaper.png",
+        "type": "Sword",
+        "rarity": 5,
+        "atk": 100,
+        "secondary": "ATK",
+        "pasive": "Protect",
+        "bonus": "Add ATK 30%",
+        "location": "Gatcha"
+    },
+    {
+        "name": "Prenty",
+        "images": "Summit_Shaper.png",
+        "type": "Clymore",
+        "rarity": 5,
+        "atk": 150,
+        "secondary": "ATK",
+        "pasive": "Attacker",
+        "bonus": "Add Phycal 30%",
+        "location": "Gatcha"
+    }
+]
