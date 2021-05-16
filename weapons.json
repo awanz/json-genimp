@@ -1,7 +1,7 @@
 [
     {
         "name": "Sword Sky",
-        "images": "Summit_Shaper.png",
+        "images": "https://raw.githubusercontent.com/awanz/json-genimp/main/images/weapons/Summit_Shaper.png",
         "type": "Sword",
         "rarity": 5,
         "atk": 100,
@@ -12,7 +12,7 @@
     },
     {
         "name": "Prenty",
-        "images": "Summit_Shaper.png",
+        "images": "https://raw.githubusercontent.com/awanz/json-genimp/main/images/weapons/Summit_Shaper.png",
         "type": "Clymore",
         "rarity": 5,
         "atk": 150,

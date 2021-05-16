@@ -1,7 +1,7 @@
 [
     {
         "name": "Bennet",
-        "image": "Yanfei.png",
+        "image": "https://raw.githubusercontent.com/awanz/json-genimp/main/images/characters/Yanfei.png",
         "tier": "S+",
         "job": "Main DPS",
         "weapon": "Sword",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Venti",
-        "image": "Yanfei.png",
+        "image": "https://raw.githubusercontent.com/awanz/json-genimp/main/images/characters/Yanfei.png",
         "tier": "S+",
         "job": "Utility",
         "weapon": "Clymore",
